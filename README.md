@@ -12,11 +12,13 @@ Furthermore, it employs a Noisy Student semi-supervised learning strategy, which
 
 Experimental results show that the method achieves a PQ value of 54.59, a significant improvement of 5.62 compared to the baseline model, demonstrating a substantial enhancement in maturity detection performance. It can also adapt to the complex scenes of real-world farms, effectively addressing issues such as leaf occlusion and fruit overlap, and achieving more accurate maturity grading.
 
-## 🦄 Performance
+## Performance
 
 ###  Complex Scenarios
 <div align="center">
   <img src="https://github.com/kevinboy666/Jujube-Manba/blob/main/assets/2-1-1_35.jpg" width=500 >
+  <img src="https://github.com/kevinboy666/Jujube-Manba/blob/main/assets/2-1-1_35_label.jpg" width=500 >
+  <img src="https://github.com/kevinboy666/Jujube-Manba/blob/main/assets/2-1-1_35_f3.jpg" width=500 >
 </div>
 
 ###  Difficult Conditions
