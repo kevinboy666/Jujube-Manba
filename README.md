@@ -16,9 +16,9 @@ Experimental results show that the method achieves a PQ value of 54.59, a signif
 
 ###  Complex Scenarios
 <div align="center">
-  <img src="https://github.com/kevinboy666/Jujube-Manba/blob/main/assets/2-1-1_35.jpg" width=500 >
-  <img src="https://github.com/kevinboy666/Jujube-Manba/blob/main/assets/2-1-1_35_label.png" width=500 >
-  <img src="https://github.com/kevinboy666/Jujube-Manba/blob/main/assets/2-1-1_35_f3.png" width=500 >
+  <img src="https://github.com/kevinboy666/Jujube-Manba/blob/main/assets/2-1-1_35.jpg" width=400 >
+  <img src="https://github.com/kevinboy666/Jujube-Manba/blob/main/assets/2-1-1_35_label.png" width=400 >
+  <img src="https://github.com/kevinboy666/Jujube-Manba/blob/main/assets/2-1-1_35_f3.png" width=400 >
 </div>
 
 ###  Difficult Conditions
