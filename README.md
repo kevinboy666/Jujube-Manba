@@ -38,7 +38,7 @@ Paper,
 
 @article{Jujube-DETR,
     title={Jujube-DETR: An Enhanced Detection Transformer for the Panoptic Segmentation of the Maturity and Quality of In-Field Taiwanese Jujubes Using Mamba and Multi-Scale Features},
-    author={Yin, Tang-Kai and (Your Name)},
+    author={Yin, Tang-Kai and Wang, Kuan-Yan},
     journal={submitted for publication},
     year={2025}
 }
