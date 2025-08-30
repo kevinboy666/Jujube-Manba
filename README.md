@@ -27,3 +27,18 @@ Experimental results show that the method achieves a PQ value of 54.59, a signif
   <img src="https://github.com/kevinboy666/Jujube-Manba/blob/main/assets/11-1-1_34_f3.png" width=500 >
 
 </div>
+
+
+
+## Train(https://github.com/kevinboy666/Jujube-Manba/blob/main/jujube-mamba2.ipynb)
+
+## Inference(https://github.com/kevinboy666/Jujube-Manba/blob/main/infer.ipynb)
+
+Paper,
+
+@article{Jujube-DETR,
+    title={Jujube-DETR: An Enhanced Detection Transformer for the Panoptic Segmentation of the Maturity and Quality of In-Field Taiwanese Jujubes Using Mamba and Multi-Scale Features},
+    author={Yin, Tang-Kai and (Your Name)},
+    journal={submitted for publication},
+    year={2025}
+}
