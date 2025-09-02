@@ -28,7 +28,8 @@ Experimental results show that the method achieves a PQ value of 54.59, a signif
 
 </div>
 
-
+install
+conda env create -f environment.yml
 
 [Train](https://github.com/kevinboy666/Jujube-Manba/blob/main/jujube-mamba2.ipynb)
 
